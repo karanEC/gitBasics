@@ -1,5 +1,7 @@
 <beans>
 	<!--Spring beans go here -->
 	
-	<bean id = "hobby>
+	<bean id = "hobby" >
+	   <property name="type" value="indoor"/>
+	</bean>
 </beans>
