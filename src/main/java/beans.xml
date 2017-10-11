@@ -1,4 +1,4 @@
 <beans>
 	<!--Spring beans go here -->
-	<context: component-scan/>
+	<context: component-scan base-package="com.karan.spring"/>
 </beans>
