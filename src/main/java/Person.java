@@ -3,6 +3,8 @@ public class Person (){
    // name of the person
    private String name;
    
+   private Address address;
+   
    // getter for name
    public String getName(){
        return this.name;
@@ -12,4 +14,9 @@ public class Person (){
    public void setName(String name){
        this.name = name;
    } 
+   
+   // setter for address
+   public void setAddress(Address address){
+	   this.address = address;
+   }
 }
