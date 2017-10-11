@@ -1,3 +1,5 @@
 <beans>
 	<!--Spring beans go here -->
+	
+	<bean id = "hobby>
 </beans>
