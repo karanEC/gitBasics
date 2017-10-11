@@ -1,8 +1,10 @@
+@Component
 public class Person (){
    
    // name of the person
    private String name;
    
+   @Autowired
    private Address address;
    
    // getter for name
