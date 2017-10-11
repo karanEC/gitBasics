@@ -4,4 +4,6 @@
 	<bean id = "hobby" >
 	   <property name="type" value="indoor"/>
 	</bean>
+	<bean id="address" address="123, Street ABC" postcode="560001"> </bean>
+	<bean id="person" name="John Doe"></bean>
 </beans>
