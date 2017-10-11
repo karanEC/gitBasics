@@ -1,3 +1,4 @@
+@Component
 public class Person (){
    
    // name of the person
