@@ -1,3 +1,4 @@
+<spring xsd/>
 <beans>
 	<!--Scanning components -->
 	<context: component-scan base-package="com.karan.spring"></context>
